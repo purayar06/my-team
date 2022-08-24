@@ -206,7 +206,28 @@
 
 
   /* Nilay Purayar	20112021 starts here */
-  
+    .cyan_20112021{ background: -webkit-linear-gradient(top, #89f1e7 0%,#60f6f8 44%,#40ebee 100%); /* Chrome10+,Safari5.1+ */
+    font-family: 'Times New Roman', Times, serif;
+}
+    .red {
+        background-color: #DB4437;
+    }
+    
+    .yellow {
+        background-color: #F4B400;
+    }
+    
+    .green {
+        background-color: #0F9D58;
+
+    }
+
+    .bluee {
+        background-color: #4285F4;
+    }
+
+
+ 
   /* Nilay Purayar	20112021 ends here */
 
 
